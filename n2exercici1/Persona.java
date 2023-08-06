@@ -1,6 +1,6 @@
 package n2exercici1;
 
-@SerialitzarJson(directori = "src")
+@SerialitzarJson(directori = ".//src//")
 public class Persona {
 	private String nom;
 	private int edat;
